@@ -1,5 +1,5 @@
 return {
-    require("plugins.catppuccin"),
+    require("plugins.github-theme"),
     require("plugins.nerdtree"),
     require("plugins.neoterm")
 }
